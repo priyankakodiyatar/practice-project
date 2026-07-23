@@ -1,4 +1,1 @@
-# practice-project
-this is my first git repository.
-<br>
-author - priyanka 
+## practising git commands
